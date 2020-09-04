@@ -3,7 +3,7 @@ dynamicData = {
     {
       "nombre":"",
       "imagen":"",
-      "descripcion":""
+      "descripcion":"Lorem ipsum"
     },
     {
       "nombre":"",
