@@ -1,38 +1,61 @@
 dynamicData = {
   "cursos": [
     {
-      "nombre":"",
+      "nombre":"Lorem ipsum",
       "imagen":"",
-      "descripcion":"Lorem ipsum"
+      "descripcion":"Lorem ipsum dolor sit amet"
     },
     {
       "nombre":"",
       "imagen":"",
       "descripcion":""
+    },
+    {
+      "nombre":"Lorem ipsum",
+      "imagen":"",
+    },
+    {
+      "nombre":"Lorem ipsum",
+      "imagen":"",
+      "descripcion":"Lorem ipsum dolor sit amet"
     }
   ],
   "apps": [
     {
+      "nombre":"Lorem ipsum",
+      "imagen":"",
+      "descripcion":"Lorem ipsum dolor sit amet"
+    },
+    {
       "nombre":"",
       "imagen":"",
       "descripcion":""
     },
     {
-      "nombre":"",
+      "nombre":"Lorem ipsum",
       "imagen":"",
-      "descripcion":"Lorem ipsum"
+    },
+    {
+      "nombre":"Lorem ipsum",
+      "imagen":"",
+      "descripcion":"Lorem ipsum dolor sit amet"
     }
   ],
   "blog": [
     {
-      "nombre":"",
+      "nombre":"Lorem ipsum",
       "imagen":"",
-      "descripcion":""
+      "descripcion":"Lorem ipsum dolor sit a met, consectetur adipiscing"
     },
     {
       "nombre":"",
       "imagen":"",
-      "descripcion":"Lorem ipsum"
+      "descripcion":"Lorem ipsum dolor sit a met, consectetur adipiscing"
+    },
+    {
+      "nombre":"Lorem ipsum",
+      "imagen":"",
+      "descripcion":"Lorem ipsum dolor sit a met, consectetur adipiscing"
     }
   ]
 }
