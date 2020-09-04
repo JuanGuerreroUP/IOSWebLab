@@ -20,7 +20,7 @@ dynamicData = {
     {
       "nombre":"",
       "imagen":"",
-      "descripcion":""
+      "descripcion":"Lorem ipsum"
     }
   ],
   "blog": [
@@ -32,7 +32,7 @@ dynamicData = {
     {
       "nombre":"",
       "imagen":"",
-      "descripcion":""
+      "descripcion":"Lorem ipsum"
     }
   ]
 }
