@@ -2,21 +2,21 @@ dynamicData = {
   "cursos": [
     {
       "nombre":"Lorem ipsum",
-      "imagen":"",
+      "imagen":"sources/images/thumb5.jpg",
       "descripcion":"Lorem ipsum dolor sit amet"
     },
     {
       "nombre":"Lorem ipsum",
-      "imagen":"",
+      "imagen":"sources/images/thumb6.jpg",
       "descripcion":""
     },
     {
       "nombre":"Lorem ipsum",
-      "imagen":"",
+      "imagen":"sources/images/thumb7.jpg",
     },
     {
       "nombre":"Lorem ipsum",
-      "imagen":"",
+      "imagen":"sources/images/thumb8.jpg",
       "descripcion":"Lorem ipsum dolor sit amet"
     }
   ],
