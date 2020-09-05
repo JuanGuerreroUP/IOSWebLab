@@ -6,7 +6,7 @@ dynamicData = {
       "descripcion":"Lorem ipsum dolor sit amet"
     },
     {
-      "nombre":"",
+      "nombre":"Lorem ipsum",
       "imagen":"",
       "descripcion":""
     },
@@ -23,21 +23,21 @@ dynamicData = {
   "apps": [
     {
       "nombre":"Lorem ipsum",
-      "imagen":"",
+      "imagen":"sources/images/thumb1.jpg",
       "descripcion":"Lorem ipsum dolor sit amet"
     },
     {
-      "nombre":"",
-      "imagen":"",
-      "descripcion":""
+      "nombre":"Lorem ipsum",
+      "imagen":"sources/images/thumb1.jpg",
+      "descripcion":"sources/images/thumb2.jpg"
     },
     {
       "nombre":"Lorem ipsum",
-      "imagen":"",
+      "imagen":"sources/images/thumb3.jpg",
     },
     {
       "nombre":"Lorem ipsum",
-      "imagen":"",
+      "imagen":"sources/images/thumb4.jpg",
       "descripcion":"Lorem ipsum dolor sit amet"
     }
   ],
