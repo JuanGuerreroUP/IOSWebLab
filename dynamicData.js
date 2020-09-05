@@ -28,8 +28,8 @@ dynamicData = {
     },
     {
       "nombre":"Lorem ipsum",
-      "imagen":"sources/images/thumb1.jpg",
-      "descripcion":"sources/images/thumb2.jpg"
+      "imagen":"sources/images/thumb2.jpg",
+      "descripcion":""
     },
     {
       "nombre":"Lorem ipsum",
