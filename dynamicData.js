@@ -43,19 +43,14 @@ dynamicData = {
   ],
   "blog": [
     {
-      "nombre":"Lorem ipsum",
-      "imagen":"",
+      "link":"#",
+      "imagen":"sources/images/blog1.jpg",
       "descripcion":"Lorem ipsum dolor sit a met, consectetur adipiscing"
     },
     {
-      "nombre":"",
-      "imagen":"",
+      "link":"#",
+      "imagen":"sources/images/blog2.jpg",
       "descripcion":"Lorem ipsum dolor sit a met, consectetur adipiscing"
     },
-    {
-      "nombre":"Lorem ipsum",
-      "imagen":"",
-      "descripcion":"Lorem ipsum dolor sit a met, consectetur adipiscing"
-    }
   ]
 }
