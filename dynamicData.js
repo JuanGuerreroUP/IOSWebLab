@@ -52,5 +52,10 @@ dynamicData = {
       "imagen":"sources/images/blog2.jpg",
       "descripcion":"Lorem ipsum dolor sit a met, consectetur adipiscing"
     },
+    {
+      "link":"#",
+      "imagen":"sources/images/blog3.jpg",
+      "descripcion":"Lorem ipsum dolor sit a met, consectetur adipiscing"
+    }
   ]
 }
