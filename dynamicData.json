@@ -1,18 +1,19 @@
 {
   "cursos": [
     {
-      "nombre":"Lorem ipsum",
+      "nombre":"Aprendiendo Swift",
       "imagen":"sources/images/thumb5.jpg",
-      "descripcion":"Lorem ipsum dolor sit amet"
+      "descripcion":"En esta serie de videos, cualquier alumno o profesor de la Universidad Panamericana puede adentrarse al mundo de la programación en Swift y conocer las bases de cómo desarrollar una aplicación. ¡Haz click en el banner para ir al taller!"
     },
     {
-      "nombre":"Lorem ipsum",
+      "nombre":"Laboratorio iOS",
       "imagen":"sources/images/thumb6.jpg",
-      "descripcion":""
+      "descripcion":"La clase Laboratorio iOS es una materia que se imparte a los alumnos de pedagogía que tiene como objetivo el conocer las bases de la programación y desarrollo de Apps usando el lenguaje Swift."
     },
     {
-      "nombre":"Lorem ipsum",
+      "nombre":"Introducción a la programación con Swift",
       "imagen":"sources/images/thumb7.jpg"
+      "descripcion":"El Taller de Programación I - Introducción a la programación Swift, es un curso que se imparte a las alumnas de la escuela ESDAI. Tiene el objetivo de fomentar un pensamiento lógico-matemático en las alumnas para la toma de decisiones y cuenten con los conocimientos necesarios para empezar a desarrollar en Swift."
     },
     {
       "nombre":"Lorem ipsum",
