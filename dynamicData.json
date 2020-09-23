@@ -20,9 +20,11 @@
   "apps": [
     {
       "nombre":"Panteras UP",
-      "imagen":"sources/images/thumb1.jpg",
+      "imagen":"sources/images/panteras1.png",
       "descripcion":"Panteras UP es la aplicación móvil de Grupo Panteras UP, con la app puedes conocer todo acerca de los equipos de panteras, comprar boletos para eventos y puedes jugar con la realidad aumentada que te muestra algunos de los modelos 3D de cada equipo.",
-      "desarrollado":"Iñaki Sigüenza"
+      "desarrollado":"Iñaki Sigüenza",
+      "link": "https://apps.apple.com/mx/app/up-panteras/id1477258387"
+
     },
     {
       "nombre":"Ciudad UP",
@@ -32,9 +34,10 @@
     },
     {
       "nombre":"Pixel Swing",
-      "imagen":"sources/images/thumb3.jpg",
+      "imagen":"sources/images/swing2.png",
       "descripcion":"Pixel Swing es un juego donde deberás entrenar al personaje principal para las grandes ligas.",
-      "desarrollado":"Fernando Fontecha"
+      "desarrollado":"Fernando Fontecha",
+      "link": "https://apps.apple.com/mx/app/pixel-swing/id1118201162" 
     }
   ]
 }
