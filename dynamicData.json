@@ -28,7 +28,7 @@
     },
     {
       "nombre":"Ciudad UP",
-      "imagen":"sources/images/thumb2.jpg",
+      "imagen":"sources/images/ciudad.png",
       "descripcion":"CiudadUP es una aplicación que te permite visualizar el proyecto de Ciudad UP en realidad aumentada utilizando ARKit.",
       "desarrollado":"Vortex"
     },
