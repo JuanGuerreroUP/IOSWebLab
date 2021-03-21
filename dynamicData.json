@@ -31,6 +31,13 @@
       "imagen":"sources/images/banner-ciudad-up.png",
       "descripcion":"CiudadUP es una aplicación que te permite visualizar el proyecto de Ciudad UP en realidad aumentada utilizando ARKit.",
       "desarrollado":"Vortex"
+    },
+    {
+      "nombre":"Mision Colibrí",
+      "imagen":"https://juanguerreroup.github.io/IOSWebLab/banner-mision-colibri.png",
+      "descripcion":"Mision Colibrí es la aplicación móvil para demostrar y dar a concoer el proyecto que se está realizando en conjunto con el MIT y la NASA, donde puedes interactuar con el modelo 3D en realidad aumentada del nanosatelite en órbita.",
+      "desarrollado":"José Manuel Vega Hernández",
+      "link": "https://apps.apple.com/mx/app/misión-colibr%C3%AD/id1539317836"
     }
   ]
 }
